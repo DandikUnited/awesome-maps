@@ -22,3 +22,7 @@ Winemaps of the world
 ![image](https://user-images.githubusercontent.com/3067070/156110580-8a213daf-847e-4701-aea0-570cdab80f55.png)
 ![image](https://user-images.githubusercontent.com/3067070/156110918-3fce877e-60eb-4f6e-b3b8-b2391e4e91bf.png)
 
+### [Submarine Cable Map](https://www.submarinecablemap.com)
+Cables under the water
+
+![image](https://user-images.githubusercontent.com/3067070/180665775-da8795ae-7440-472c-b139-56db237abca7.png)
