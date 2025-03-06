@@ -32,3 +32,19 @@ Cables under the water
 Historical topographical maps of US
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/c63efeba-01df-4468-9b9d-c8e470c83ad4" />
+
+
+### [Old Maps Online](https://www.oldmapsonline.org/en/history/regions#position=2.4799/40.6/46.3&year=1504)
+Historical maps with a date slider showing borders, people, and more
+
+<img width="1535" alt="image" src="https://github.com/user-attachments/assets/b48fe352-5639-427b-aaa5-6470bd00cf75" />
+<img width="1535" alt="image" src="https://github.com/user-attachments/assets/0fbd2688-eecd-4282-8704-f251143c483e" />
+
+### [Epic vs Ikon](https://www.epicorikon.com/#map)
+A site to compare ski-pass duopoly companies that comes with great ski maps
+
+<img width="1506" alt="image" src="https://github.com/user-attachments/assets/e5f663bc-0ef0-4310-9a6d-b1477df338d2" />
+<img width="1373" alt="image" src="https://github.com/user-attachments/assets/e9a99e9e-5240-43ad-a2b8-49039be67303" />
+
+
+
