@@ -62,3 +62,6 @@ Select a country and listen music from different eras
 <img width="1316" height="690" alt="image" src="https://github.com/user-attachments/assets/a5dc6474-dbb7-4948-9c9e-f87b31b9297e" />
 
 
+
+### [KoreAves — South Korean Bird Evidence Map](https://koreaves.com/gis/)
+Explore publicly reported bird occurrence records in an interactive English/Korean regional map of South Korea. The site links observation sources and explains coverage limitations; points are not population-abundance or definitive range estimates.
